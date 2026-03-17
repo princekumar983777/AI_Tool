@@ -1,3 +1,7 @@
 ipykernel
 pandas
 numpy
+
+
+torch
+torchvision
